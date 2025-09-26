@@ -43,19 +43,6 @@ In this portfolio, I present my skills, completed projects, and contact informat
 
 ---
 
-## Projects
-
-Here’s a summary of projects featured on the site:
-
-| Name | Description | Key Technologies |
-|------|-------------|------------------|
-| Personal Portfolio | A clean, responsive single‐page portfolio site | HTML, CSS |
-| To-Do Web App | Task manager with create / read / update / delete features (client–server) | JavaScript, Node.js, Express |
-| Point of Sale (Concept) | UI mockups and data flow design for a small POS system | Design, HTML |
-
-You can expand on each project with links to live demos or source code in future updates.
-
----
 
 ## Getting Started
 
