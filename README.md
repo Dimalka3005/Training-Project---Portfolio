@@ -8,12 +8,8 @@ A clean, responsive, single-page portfolio site showcasing my projects, skills, 
 
 - [About](#about)  
 - [Features](#features)  
-- [Technologies Used](#technologies-used)  
-- [Projects](#projects)  
-- [Getting Started](#getting-started)  
-- [Deployment](#deployment)  
-- [Contact](#contact)  
-- [License](#license)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
 
 ---
 
